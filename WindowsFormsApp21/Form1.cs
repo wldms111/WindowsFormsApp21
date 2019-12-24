@@ -21,5 +21,10 @@ namespace WindowsFormsApp21
         {
             this.Text = "버튼클릭";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Text = "asagdsggsdgdfhfhdfhdhfgsdgs";
+        }
     }
 }
