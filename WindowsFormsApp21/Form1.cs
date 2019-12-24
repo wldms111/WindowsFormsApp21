@@ -16,5 +16,10 @@ namespace WindowsFormsApp21
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Text = "버튼클릭";
+        }
     }
 }
